@@ -1,2 +1,7 @@
+Dear reviewers,
+
+Due to the double-anonymized review principle of the TII journal, we are temporarily canceling the sharing of the relevant code as well as the dataset.
+
+We promise to make the code and datasets publicly available after the article is published.
+
 ![image](LCT.png)
-Due to the double-anonymity review principle of TII journals, we have temporarily canceled the sharing of the relevant code as well as the dataset, and we promise to make the corresponding code and its dataset public after the successful publication of the article.
